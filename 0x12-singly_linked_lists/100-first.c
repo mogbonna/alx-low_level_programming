@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * first - prints a sentence before the main
+ * premain - prints a sentence before the main
  * function is executed
  */
 void __attribute__((constructor)) premain()
